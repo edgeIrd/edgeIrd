@@ -5,6 +5,9 @@ $${\color{###e0e0e0}ボム\space
 
 <tr>
 <td align="center" width="280">
-<p>
+ <p>
+ </p>
+  <td>
+  <td align="center">
 <img src="https://64.media.tumblr.com/7d869eacf04e5033e506c80b39df3852/1be5f60b888846c9-2f/s1280x1920/f184904f65c87e71708920c4c75dcbcd1099e771.pnj" width="280">
 <br>
